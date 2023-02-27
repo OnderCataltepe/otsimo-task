@@ -35,9 +35,15 @@ Note: Get base_url for api
 - Sorts by alphabetically
 
 ### Category Menu:
-- shows meals that its all ingredients are selected as a specific category
+- Shows meals that its all ingredients are selected as a specific category
 - Filters meals by vegan and vegetarian options
 - Sorts meals by price in given category
 - Sorts by alphabetically
 
-### Detailed Meal
+### Dynamic Meal Page
+- Find out the highest-quality version of a meal for a given budget
+- The price and the quality of the meal should be dynamically calculated and updated when a customer chooses between different qualities of each ingredient.
+- Customers should be able to choose between different levels of quality options for each ingredient.
+- Ingredients should be listed with their levels of quality options.
+- Find out the highest-quality meal for a given budget
+
