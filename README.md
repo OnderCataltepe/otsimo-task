@@ -1,6 +1,6 @@
 # Transparent Restaurant
 
-A restaurant site demo that serves the same food with different quality ingredients to its customers
+A restaurant website demo that serves the same food with different quality ingredients to its customers
 
 ## Installation
 ```
@@ -41,7 +41,7 @@ Note: Get base_url for api
 - Sorts by alphabetically
 
 ### Dynamic Meal Page
-- Find out the highest-quality version of a meal for a given budget
+- Finds out the highest-quality version of a meal for a given budget
 - The price and the quality of the meal should be dynamically calculated and updated when a customer chooses between different qualities of each ingredient.
 - Customers should be able to choose between different levels of quality options for each ingredient.
 - Ingredients should be listed with their levels of quality options.
