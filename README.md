@@ -1,6 +1,6 @@
 # Transparent Restaurant
 
-A restaurant website demo that serves the same food with different quality ingredients to its customers
+A restaurant website demo that allows the customer to choose the different quality of ingredients for the meals.
 
 ## Installation
 ```
@@ -8,7 +8,7 @@ git clone https://github.com/OnderCataltepe/onder-cataltepe-otsimo-frontend-task
 cd transparent-restaurant 
 npm install
 ```
-Note: Get base_url for api
+<sup> Note: Get BASE_URL for api <sup>
 ### Run Locally
 
 - npm run dev: dev build
@@ -28,17 +28,17 @@ Note: Get base_url for api
 ## Features
 
 ### Custom Menu: 
-- Includes list all the meals with their minimum and maximum prices.  
+- Lists all the meals with their minimum and maximum prices.  
 - Shows a random meal with all ingredients are selected for a given budget
 - Filters meals by vegan and vegetarian options
-- Sorts meals by ascending price, descending price according to qualities.
-- Sorts by alphabetically
+- Sorts the meals according to their prices for each quality.
+- Sorts the meals by alphabetically
 
 ### Category Menu:
-- Shows meals that its all ingredients are selected as a specific category
-- Filters meals by vegan and vegetarian options
-- Sorts meals by price in given category
-- Sorts by alphabetically
+- Shows the meals that its all ingredients are selected as a specific category
+- Filters the meals by vegan and vegetarian options
+- Sorts the meals by price in given category
+- Sorts the meals by alphabetically
 
 ### Dynamic Meal Page
 - Finds out the highest-quality version of a meal for a given budget
