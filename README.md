@@ -32,4 +32,12 @@ Note: Get base_url for api
 - Shows a random meal with all ingredients are selected for a given budget
 - Filters meals by vegan and vegetarian options
 - Sorts meals by ascending price, descending price according to qualities.
-- Sorts meals by alphabet
+- Sorts by alphabetically
+
+### Category Menu:
+- shows meals that its all ingredients are selected as a specific category
+- Filters meals by vegan and vegetarian options
+- Sorts meals by price in given category
+- Sorts by alphabetically
+
+### Detailed Meal
